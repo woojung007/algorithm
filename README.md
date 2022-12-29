@@ -2,8 +2,14 @@
 
 🏁 Programming language : Javascript
 
-### [Baekjoon](https://github.com/woojung007/algorithm/tree/master/Baekjoon)
+### Baekjoon
 
+- 자료구조
+- 수학
+- 정렬
 
-### [Programmers](https://github.com/woojung007/algorithm/tree/master/Programmers)
+### Programmers
 
+- 월간 챌린지 시즌1
+- 스택/큐
+- 연습문제
