@@ -11,7 +11,7 @@
 ### Programmers 프로그래머스
 
 - [월간 챌린지 시즌1](https://github.com/woojung007/algorithm/tree/master/Programmers/monthly-challenge-1)
-- [스택/큐](https://github.com/woojung007/algorithm/tree/master/Programmers/stack-queue)
+- [Level 1](https://github.com/woojung007/algorithm/tree/master/Programmers/level-1)
 - [연습문제](https://github.com/woojung007/algorithm/tree/master/Programmers/practice)
 
 ### Coding test 코딩 테스트
